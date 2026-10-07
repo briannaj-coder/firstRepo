@@ -1,0 +1,50 @@
+body{
+    background-color: #f5eef8;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    color:#008080;
+    text-align: center;
+    font-family: Georgia, serif;
+    border-bottom: 3px solid #057892;
+    padding-bottom: 10px;
+}
+
+.intro{
+    font-size: 18px;
+    text-align: center;
+    margin: 20px;
+}
+
+#career{
+    background-color: white;
+    border: 2px solid #057892;
+    padding: 20px;
+    margin: 20px 0;
+}
+h2{
+    color: #6a1b9a;
+    font-family: Georgia, serif;
+}
+h2:hover {
+    text-decoration: underline;
+}
+
+img{
+    width: 500px;
+    border: 5px solid #057892;
+    padding: 5px;
+    display: block;
+    margin: 30px;
+}
+
+blockquote{
+    font-style: italic;
+    text-align: center;
+    border-left: 5px solid purple;
+    padding: 15px;
+    margin: 30px;
+}
